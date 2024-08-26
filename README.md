@@ -1,3 +1,3 @@
 # Stock-Market-Analysis
 
-This is a python program which takes in the ticker symbol of a company listed on the stock market as an input, and then displays the weekly volumes, along with opening, closing, high and low of the stock for a certain period of time which may be decided by the user.
+This Python program allows users to input the ticker symbol of a company listed on the stock market and retrieve detailed stock data. It displays weekly trading volumes, as well as the opening, closing, high, and low prices of the stock over a user-defined period of time. This tool provides an efficient way to analyze stock performance and trends based on historical data.
